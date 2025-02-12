@@ -1,9 +1,14 @@
+    _                           
+   / \   _ __ _   _  __ _ _ __  
+  / _ \ | '__| | | |/ _` | '_ \ 
+ / ___ \| |  | |_| | (_| | | | |
+/_/   \_\_|   \__, |\__,_|_| |_|
+              |___/             
+
 - 👋 Hi, I’m @Aryan1Mahahjan
 - 👀 I’m interested in Computer Operating Systems
-- 🌱 I’m currently learning Git version Cltr
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on low-level projects 
 
 <!---
 Aryan1Mahahjan/Aryan1Mahahjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
